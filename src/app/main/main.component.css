@@ -1,0 +1,51 @@
+.main{
+   background-color: #CC7C7C;
+   position: absolute;
+   top:20.85%;
+   width: 80%;
+   height: 80%; 
+}
+.h1{
+    font-family: Comic Sans MS;
+    font-size: 30px;
+}
+.D{
+    font-family: Comic Sans MS;
+    font-size:25px;
+    font-weight: bold;
+}
+.d{
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    font-weight: bold;
+}
+.L{
+    font-family: Comic Sans MS;
+    font-size:25px;
+    font-weight: bold;
+    color: #904A4A;
+}
+.num{
+   font-family:Edwardian Script ITC‏;
+    font-size:30px;
+    font-weight: bold;
+    color: #7A1E1E;
+}
+.sp{
+   font-family:Fraktur‏;
+    font-size:20px;
+    font-weight: bold;
+    color: #7A1E1E;
+}
+img{
+    width: 32.9%;
+    height: 50%;
+  
+}
+.mu{   
+font-size: 150%;
+position:absolute;
+color:#9E0101;
+top:37%;
+left: 3%; 
+}

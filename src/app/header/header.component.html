@@ -1,0 +1,8 @@
+<div class="header" >
+<div class="title" >{{title}}</div>
+<div class="decription">{{decription}}</div>
+<img src="http://www.rami-levy.co.il/files/picturesimages/570.jpg">
+<div class ="nav">
+<app-nav *ngFor="let item of NavService.navItems" [text]="item.text" ></app-nav>‏
+</div>
+

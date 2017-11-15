@@ -1,0 +1,22 @@
+.aside{
+    position: absolute;
+    left:80%;
+    background-color: #7B1515;
+    top:20.8%;
+    width: 20.4%;
+    height: 80%;
+}
+.img1{
+    position: absolute;
+    top:5%;
+    width:88%;
+    height: 45%;
+    left:5%;
+}
+.img2{
+    position: absolute;
+    top:50%;
+    width:88%;
+    height: 45%;
+    left:5%;
+}

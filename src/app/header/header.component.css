@@ -1,0 +1,40 @@
+.header{
+position: absolute;
+width:100%;
+height:20%; 
+background-color: #F6A1A1;
+}
+.title{
+    color: #AE0101;
+    font-family:Cursive;
+    font-size: 80px;
+    position: absolute;
+    left: 42%;
+    top:5px;
+    font-weight: bold;
+    
+
+}
+.decription{
+color: #5A0505;
+font-size: 55px;
+font-family:Edwardian Script ITC;
+position: absolute;
+font-weight: bold;
+left: 39.5%;
+top:110px;
+}
+img{
+    position: absolute;
+    left: 35%;
+    top:20%;
+    width: 5%;
+    height: 45%;
+}
+.nav{
+    
+    position: absolute;
+    left: 80.2%;
+    top:77%;
+
+}
